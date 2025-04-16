@@ -5,8 +5,8 @@ Hi there ![](https://user-images.githubusercontent.com/18350557/176309783-078594
 Data Analyst with a creative edge | London, UK
 ------------
 <p align="left">
-  💡 Passionate about data-driven storytelling & creative insights.<br>
-  🎯 Obsessed with turning raw data into business value. <br>
+  💡 Passionate about data, architecture and structure.<br>
+  🎯 Obsessed with turning raw data into elegant, meaningful insights that bring business value. <br>
   📊 Currently building dashboards and predictive models.<br>
   🔍 Curious. Analytical. Creative. Business-minded.
 </p>
@@ -15,10 +15,11 @@ Data Analyst with a creative edge | London, UK
 
 #### 🧭 My Journey into Data
 
-From architecture, design & business to analytics – I fell in love with logic and structure.  
-Entrepreneurial spirit – My business taught me resilience how to track KPIs and dig into customer behavior.  
+From architecture, design & business to analytics – I fell in love with logic and structure.
+I treat data like design — every detail matters, and precision drives performance.
+Entrepreneurial spirit – My business taught me resilience, how to track KPIs and dig into customer behavior.  
 Data tools I love – Python, SQL, Excel, Tableau  
-Why it matters – I turn complex data into decisions that matter & create beautiful visuals that non-tech people really get! 
+Why it matters – I turn complex data into decisions that matter & create beautiful visuals that non-tech people really understand! 
 I thrive on solving complex problems and translating data into strategic decisions<br>
 I believe that data fuels creativity.</strong><br>
   With structure and logic, I design solutions that tell meaningful stories!
@@ -38,6 +39,8 @@ I believe that data fuels creativity.</strong><br>
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 <img src="https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white&labelColor=000000&color=brightblue" style="filter: drop-shadow(0 0 4px #007ACC);" />
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)
 ![Flask](https://img.shields.io/badge/-Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Excel](https://img.shields.io/badge/-Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
@@ -51,6 +54,14 @@ I believe that data fuels creativity.</strong><br>
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 
+I also know:
+
+![Illustrator](https://img.shields.io/badge/-Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white)
+![Rhino](https://img.shields.io/badge/-Rhino%203D-801010?style=for-the-badge&logo=apacherocketmq&logoColor=white)
+![Grasshopper](https://img.shields.io/badge/-Grasshopper-7AAB6C?style=for-the-badge&logo=data:image/svg+xml;base64,...&logoColor=white)
+![AutoCAD](https://img.shields.io/badge/-AutoCAD-CB2026?style=for-the-badge&logo=autodesk&logoColor=white)
+![Revit](https://img.shields.io/badge/-Revit-0C5FAB?style=for-the-badge&logo=autodesk&logoColor=white)
+![SketchUp](https://img.shields.io/badge/-SketchUp-005F9E?style=for-the-badge&logo=sketchup&logoColor=white)
 
 
 
