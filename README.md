@@ -5,10 +5,12 @@ Hi there ![](https://user-images.githubusercontent.com/18350557/176309783-078594
 Data Analyst with a creative edge | London, UK
 ------------
 <p align="left">
-  💡 Passionate about data, architecture and structure.<br>
+  💡 Passionate about data, design world and structure.<br>
+  translating chaos into clarity
   🎯 Obsessed with turning raw data into elegant, meaningful insights that bring business value. <br>
-  📊 Currently building dashboards and predictive models.<br>
   🔍 Curious. Analytical. Creative. Business-minded.
+  🖥️ See my data viz portfolio at [Tableau](https://public.tableau.com/app/profile/ela.maria.vultur/vizzes)
+  📚 If interested in my art click here
 </p>
 
 ---
@@ -69,8 +71,8 @@ I also know:
 <summary><strong>📊 Data Visualization</strong></summary>
 
 - 📌 **Tableau** – Dashboards for ESG Risk, Spotify trends, Sales
-- 📌 **Power BI** – Custom visuals and slicers for KPI monitoring
-- 📌 **Excel** – Pivot tables, dashboards, storytelling, VBA scripts
+- 📌 **Power BI** – Custom visuals and slicers for KPI monitoring, deep knowledge of DAX for complex calculations and measures.
+- 📌 **Excel** – Pivot tables, dashboards, advanced formulas, data cleaning, storytelling, VBA scripts, 
 
 </details>
 
@@ -79,7 +81,7 @@ I also know:
 
 - 🐍 **Python** – Pandas, NumPy, Matplotlib
 - 🧠 **Flask** – Lightweight app APIs for data pipelines
-- 💾 **SQL** – MySQL
+- 💾 **SQL** – Proficient in writing optimized SQL queries for data extraction and transformation
 
 </details>
 
