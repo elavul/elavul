@@ -6,10 +6,10 @@ Data Analyst with a creative edge | London, UK
 ------------
 <p align="left">
   💡 Passionate about data, design world and structure.<br>
-  translating chaos into clarity
+  translating chaos into clarity<br>
   🎯 Obsessed with turning raw data into elegant, meaningful insights that bring business value. <br>
-  🔍 Curious. Analytical. Creative. Business-minded.
-  🖥️ See my data viz portfolio at [Tableau](https://public.tableau.com/app/profile/ela.maria.vultur/vizzes)
+  🔍 Curious. Analytical. Creative. Business-minded.<br>
+  🖥️ See my data viz portfolio at [Tableau](https://public.tableau.com/app/profile/ela.maria.vultur/vizzes)<br>
   📚 If interested in my art click here
 </p>
 
