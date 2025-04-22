@@ -37,8 +37,8 @@ I believe that data fuels creativity.</strong><br>
  🤝  Open to collaboration: projects, dashboards, portfolio builds<br>
  🧠  Fun Fact: I have a secret crush on Python 🐍 — don’t tell Excel 💚
  🌍- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+- 🤔 I’m looking for help with analysing and extracting useful insights from Big Data datasets (in a timely manner)
+- 💬 Ask me about sustainability, career change
 
 ## 💼 Core Competencies
 
@@ -112,19 +112,20 @@ I also know:
 
   ### 📊 Excel Projects:
   
-  - **S&P 500 ESG Risk Levels** _(Built in Excel for dashboard prototyping)_
+  - [**S&P 500 ESG Risk Levels**](https://github.com/elavul/Excel-Tableau-Python--Finance--ESG-S-P-500-risk-insights) (Excel & Tableau)
 
-  ### 💻 SQL + Python Projects:
+
+  ### 💻 SQL Projects:
+ - https://github.com/elavul/SQL-Projects/tree/main/Northwind%20Database (SQL & Excel)
+ - 
+  ### 💻 Python Projects + Web development (with Flask):
   - *(These will be listed in a separate section focused on code-heavy analysis)*
 
 
 <details>
   <summary><strong>🚀 Featured Analytical Projects</strong></summary>
 
-  - [Sales Dashboard (Power BI)](#)
-  - [Customer Segmentation (Python/SQL)](#)
-  - [Churn Prediction Model (Python)](#)
-
+  
 </details>
 
 
