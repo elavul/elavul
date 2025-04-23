@@ -13,8 +13,9 @@ Data Analyst with a creative edge | London, UK
   🎯 Obsessed with turning raw data into elegant, meaningful insights that bring business value. <br>
   🔍 Curious. Analytical. Creative. Business-minded.<br>
   🖥️ See my data viz portfolio at [Tableau](https://public.tableau.com/app/profile/ela.maria.vultur/vizzes)<br>
-  📚 If interested in my art click here
-</p>
+  📚 If interested in seeing my palntable cards and traditional greeting cards - click here: https://ebellecards.carrd.co/
+  📚 If interested in seeing my art, click here: https://ebellecreations.com/collections/limited-edition-prints-unique-surrealist-architectural-illustrations
+</p> 
 
 ---
 
