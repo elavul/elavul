@@ -11,12 +11,12 @@ Data Analyst with a creative edge | London, UK
   💡 Curious. Analytical. Creative. Business-minded. Passionate about statistics, data, design world and structure.<br>
   🎯 Obsessed with turning raw data into elegant, meaningful insights that bring business value. <br>
   🌱 Currently Learning: Machine Learning (scikit-learn) <br> 
-  🤔 I’m looking for Apprenticships/ Internships/ Entry Level Data Analyst Roles
-  📫 How to reach me: Leave a message on LinkedIn and I will get back to you
-  🤝 Open to collaboration: projects, dashboards, portfolio builds<br>
+  🤔 I’m looking for Apprenticships/ Internships/ Entry Level Data Analyst Roles <br>
+  📫 How to reach me: Leave a message on LinkedIn and I will get back to you <br>
+  🤝 Open to collaboration: projects, dashboards, portfolio builds <br>
   🧠 Fun Fact: I have a secret crush on Python 🐍 — don’t tell Excel 💚
   
-  🖥️ See my data viz portfolio at [Tableau](https://public.tableau.com/app/profile/ela.maria.vultur/vizzes)<br>
+  🖥️ See my data viz portfolio at [Tableau](https://public.tableau.com/app/profile/ela.maria.vultur/vizzes) <br>
   🔍 If interested in seeing my palntable cards and traditional greeting cards - click here: https://ebellecards.carrd.co/  <br>
   📚 If interested in seeing my art, click here: https://ebellecreations.com/collections/limited-edition-prints-unique-surrealist-architectural-illustrations   <br>
 </p> 
@@ -56,7 +56,7 @@ WORKFLOW, DESIGN & CLOUD|
 |**Azure** |
 
 -----
-**For more projects** please click here, for the contents page - 
+**For more projects** please click here, for the contents page - https://github.com/elavul/-Projects-Contents-Page/blob/main/README.md
 
 -----
 #### Get to know be better 🧭 My Journey into Data
