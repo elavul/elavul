@@ -5,42 +5,23 @@ Hi there ![](https://user-images.githubusercontent.com/18350557/176309783-078594
 Data Analyst with a creative edge | London, UK
 ------------
 
-
 “Data without context is just noise — but ask the right questions, and it tells a story.”
+
 <p align="left">
-  💡 Passionate about data, design world and structure.<br>
-  translating chaos into clarity<br>
+  💡 Curious. Analytical. Creative. Business-minded. Passionate about statistics, data, design world and structure.<br>
   🎯 Obsessed with turning raw data into elegant, meaningful insights that bring business value. <br>
-  🔍 Curious. Analytical. Creative. Business-minded.<br>
+  🌱 Currently Learning: Machine Learning (scikit-learn) <br> 
+  🤔 I’m looking for Apprenticships/ Internships/ Entry Level Data Analyst Roles
+  📫 How to reach me: Leave a message on LinkedIn and I will get back to you
+  🤝 Open to collaboration: projects, dashboards, portfolio builds<br>
+  🧠 Fun Fact: I have a secret crush on Python 🐍 — don’t tell Excel 💚
+  
   🖥️ See my data viz portfolio at [Tableau](https://public.tableau.com/app/profile/ela.maria.vultur/vizzes)<br>
-  📚 If interested in seeing my palntable cards and traditional greeting cards - click here: https://ebellecards.carrd.co/  <br>
+  🔍 If interested in seeing my palntable cards and traditional greeting cards - click here: https://ebellecards.carrd.co/  <br>
   📚 If interested in seeing my art, click here: https://ebellecreations.com/collections/limited-edition-prints-unique-surrealist-architectural-illustrations   <br>
 </p> 
-
+ 
 ---
-
-#### 🧭 My Journey into Data
-
-From architecture, design & business to analytics – I fell in love with logic and structure.
-I treat data like design — every detail matters, and precision drives performance.
-Entrepreneurial spirit – My business taught me resilience, how to track KPIs and dig into customer behavior.  
-Data tools I love – Python, SQL, Excel, Tableau  
-Why it matters – I turn complex data into decisions that matter & create beautiful visuals that non-tech people really understand! 
-I thrive on solving complex problems and translating data into strategic decisions<br>
-I believe that data fuels creativity.</strong><br>
-  With structure and logic, I design solutions that tell meaningful stories!
-
-
----
-
- 🌱  Currently Learning: Machine Learning (scikit-learn) <br>
- ✉️  You can contact me at [elavultur@yahoo.com](mailto:elavultur@yahoo.com)<br>
- 🤝  Open to collaboration: projects, dashboards, portfolio builds<br>
- 🧠  Fun Fact: I have a secret crush on Python 🐍 — don’t tell Excel 💚
- 🌍- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with analysing and extracting useful insights from Big Data datasets (in a timely manner)
-- 💬 Ask me about sustainability, career change
-
 ## 💼 Core Competencies
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -59,78 +40,38 @@ I believe that data fuels creativity.</strong><br>
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
+## 🧠 Skills 🚀
 
-I also know:
+| 🛠️ Tools Used  |          💡 Skills Applied                                                       | 🔗 Featured Project Links                                |
+|--------------------------------------|-------------------------------------------------------------|-----------------------------------------------------------|
+|      DATA VISUALIZATION                                                                            |                                                          |
+|**Excel** | applied advanced formulas for data analysis (VLOOKUP,INDEX-MATCH), built dashboards using Power Query and Pivot Tables, Dashboard storytelling, VBA                   | [**S&P 500 ESG Risk Levels**](https://github.com/elavul/Excel-Tableau-Python--Finance--ESG-S-P-500-risk-insights) (Excel & Tableau)  |       
+|**Tableau** | Built interactive dashboards for ESG risk, analysed trends, Spotify trends, and sales KPIs| [**Demographic Analysis of Bike Purchasing Patterns – Dec 2021**](https://public.tableau.com/app/profile/ela.maria.vultur/viz/DemographicAnalysisofBikePurchasingPatterns/Dashboard1)
+|**Power BI** | Created custom visuals, used advanced DAX for calculated measures and slicers, KPI metrics|
+|PROGRAMMING & ANALYSIS| - Basic statistical analysis, data cleaning
+|**SQL** | Proficient in writing optimized SQL queries for data extraction and transformation| - [**Northwind Database Project**](https://github.com/elavul/SQL-Projects/tree/main/Northwind%20Database) **SQL** (data analysis), **Excel** (dashboard visualization), **Tableau** (interactive viz)|
+|**Python** | Pandas, NumPy, Matplotlib, Jupyter Notebook, Trend analysis|
+|**Flask** | Lightweight APIs| [Inventory Management App](https://github.com/elavul/Python---Web-development---VisualStudioCode/tree/main/Flask%26HTML---Inventory.md)  **Flask** (backend web app), **HTML/CSS** (UI), **Python** (data handling & routing)|
+WORKFLOW, DESIGN & CLOUD|
+|**Azure** |
 
-![Illustrator](https://img.shields.io/badge/-Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white)
-![Rhino](https://img.shields.io/badge/-Rhino%203D-801010?style=for-the-badge&logo=apacherocketmq&logoColor=white)
-![Grasshopper](https://img.shields.io/badge/-Grasshopper-7AAB6C?style=for-the-badge&logo=data:image/svg+xml;base64,...&logoColor=white)
-![AutoCAD](https://img.shields.io/badge/-AutoCAD-CB2026?style=for-the-badge&logo=autodesk&logoColor=white)
-![Revit](https://img.shields.io/badge/-Revit-0C5FAB?style=for-the-badge&logo=autodesk&logoColor=white)
-![SketchUp](https://img.shields.io/badge/-SketchUp-005F9E?style=for-the-badge&logo=sketchup&logoColor=white)
+-----
+**For more projects** please click here, for the contents page - 
 
+-----
+#### Get to know be better 🧭 My Journey into Data
 
-
-<details>
-<summary><strong>📊 Data Visualization</strong></summary>
-
-- 📌 **Tableau** – Dashboards for ESG Risk, Spotify trends, Sales
-- 📌 **Power BI** – Custom visuals and slicers for KPI monitoring, deep knowledge of DAX for complex calculations and measures.
-- 📌 **Excel** – Pivot tables, dashboards, advanced formulas, data cleaning, storytelling, VBA scripts, 
-
-</details>
-
-<details>
-<summary><strong>📈 Programming & Analysis & Web development </strong></summary>
-
-- 🐍 **Python** – Pandas, NumPy, Matplotlib
-- 🧠 **Flask** – Lightweight app APIs for data pipelines
-- 💾 **SQL** – Proficient in writing optimized SQL queries for data extraction and transformation
-
-</details>
-
-<details>
-<summary><strong>🛠️ Workflow & Design & Cloud </strong></summary>
-
-- 💻 **VS Code**, **Git**, **Linux**
-- ☁️ **Google Cloud Platform**
-- 🖌️ **Adobe Creative Suite** (InDesign, Photoshop, Illustrator, AE)
-
-</details>
-
-## 🎯Projects
+From architecture, design & business to analytics – I fell in love with logic and structure.
+I treat data like design — every detail matters, and precision drives performance.
+Entrepreneurial spirit – My business taught me resilience, how to track KPIs and dig into customer behavior.  
+Data tools I love – Python, SQL, Excel, Tableau  
+Why it matters – I turn complex data into decisions that matter & create beautiful visuals that non-tech people really understand! 
+I thrive on solving complex problems and translating data into strategic decisions<br>
+I believe that data fuels creativity.</strong><br>
+  With structure and logic, I design solutions that tell meaningful stories!
 
 
-  ### 📈 Tableau Projects:
-  - [S&P 500 Index ESG Risk Scores Insights](https://public.tableau.com/app/profile/ela.maria.vultur/viz/ESGSP500riskinsights/Dashboard2?publish=yes)  
-    _Uncovering sector-wide disparities & hidden anomalies_
-  - [Demographic Analysis of Bike Purchasing Patterns – Dec 2021](https://public.tableau.com/app/profile/ela.maria.vultur/viz/DemographicAnalysisofBikePurchasingPatterns/Dashboard1)
-  - [Global Superstore Dataset Dashboard](https://public.tableau.com/app/profile/ela.maria.vultur/viz/Globaldatasetfinal/Dashboard2)
-  - [Popular Spotify Artists – Danceability & Loudness](https://public.tableau.com/app/profile/ela.maria.vultur/viz/Popularspotifyartistsintermsofdanceabilityandloudness/Dashboard1)
-
-  ### 📊 Power BI Projects:
-  - *(Coming soon — in progress!)*
-
-  ### 📊 Excel Projects:
-  
-  - [**S&P 500 ESG Risk Levels**](https://github.com/elavul/Excel-Tableau-Python--Finance--ESG-S-P-500-risk-insights) (Excel & Tableau)
-
-
-  ### 💻 SQL Projects:
- - https://github.com/elavul/SQL-Projects/tree/main/Northwind%20Database (SQL & Excel)
- - 
-  ### 💻 Python Projects + Web development (with Flask):
-  - *(These will be listed in a separate section focused on code-heavy analysis)*
-
-
-<details>
-  <summary><strong>🚀 Featured Analytical Projects</strong></summary>
-
-  
-</details>
-
-
-
+---
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/elavul" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a></p>
@@ -177,3 +118,11 @@ extra
 </div>
 
 
+I also know:
+
+![Illustrator](https://img.shields.io/badge/-Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white)
+![Rhino](https://img.shields.io/badge/-Rhino%203D-801010?style=for-the-badge&logo=apacherocketmq&logoColor=white)
+![Grasshopper](https://img.shields.io/badge/-Grasshopper-7AAB6C?style=for-the-badge&logo=data:image/svg+xml;base64,...&logoColor=white)
+![AutoCAD](https://img.shields.io/badge/-AutoCAD-CB2026?style=for-the-badge&logo=autodesk&logoColor=white)
+![Revit](https://img.shields.io/badge/-Revit-0C5FAB?style=for-the-badge&logo=autodesk&logoColor=white)
+![SketchUp](https://img.shields.io/badge/-SketchUp-005F9E?style=for-the-badge&logo=sketchup&logoColor=white)
