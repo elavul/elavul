@@ -7,6 +7,8 @@ Data Analyst with a creative edge | London, UK
 
 “Data without context is just noise — but ask the right questions, and it tells a story.”
 
+<img src="https://github.com/user-attachments/assets/1e1353fd-ceb4-4ea5-a0f5-efab490047e3" alt="Image" align="right" width="300" />
+
 <p align="left">
   💡 Curious. Analytical. Creative. Business-minded. Passionate about statistics, data, design world and structure.<br>
   🎯 Obsessed with turning raw data into elegant, meaningful insights that bring business value. <br>
