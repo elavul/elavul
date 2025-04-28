@@ -44,7 +44,7 @@ Data Analyst with a creative edge | London, UK
 
 ## 🧠 Skills 🚀
 
-| 🛠️ Tools Used  |          💡 Skills Applied                                                       | 🔗 Featured Project Links                                |
+| 🛠️ Tools Used  |          💡 Skills Applied                                                      | 🔗 Featured Project Links                                |
 |--------------------------------------|-------------------------------------------------------------|-----------------------------------------------------------|
 |      DATA VISUALIZATION                                                                            |                                                          |
 |**Excel** | applied advanced formulas for data analysis (VLOOKUP,INDEX-MATCH), built dashboards using Power Query and Pivot Tables, Dashboard storytelling, VBA                   | [**S&P 500 ESG Risk Levels**](https://github.com/elavul/Excel-Tableau-Python--Finance--ESG-S-P-500-risk-insights) (Excel & Tableau)  |       
