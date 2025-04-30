@@ -1,6 +1,12 @@
 Hi there ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)I'm Ela!
 ==================================================================================================================================
 
+### 🧑‍💻 Most Used Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=elavul&layout=compact&langs_count=6)
+
+
+
 
 Data Analyst with a creative edge | London, UK
 ------------
