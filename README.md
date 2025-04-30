@@ -1,12 +1,6 @@
 Hi there ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)I'm Ela!
 ==================================================================================================================================
 
-### 🧑‍💻 Most Used Languages
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=elavul&layout=compact&langs_count=6)
-
-
-
 
 Data Analyst with a creative edge | London, UK
 ------------
@@ -30,7 +24,7 @@ Data Analyst with a creative edge | London, UK
 </p> 
  
 ---
-## 💼 Core Competencies
+## 💼 Core Competencies 🧑‍💻
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 <img src="https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white&labelColor=000000&color=brightblue" style="filter: drop-shadow(0 0 4px #007ACC);" />
@@ -47,6 +41,9 @@ Data Analyst with a creative edge | London, UK
 ![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+
+[Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=elavul&layout=compact&langs_count=6)
 
 ## 🧠 Skills 🚀
 
