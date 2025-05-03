@@ -12,7 +12,7 @@ Data Analyst with a creative edge | London, UK
 <p align="left">
   💡 Curious. Analytical. Creative. Business-minded. Passionate about statistics, data, design world and structure.<br>
   🎯 Obsessed with turning raw data into elegant, meaningful insights that bring business value. <br>
-  🌱 Currently Learning: Machine Learning (scikit-learn) <br> 
+  🌱 Currently Learning: Machine Learning  <br> 
   🤔 I’m looking for Apprenticships/ Internships/ Entry Level Data Analyst Roles <br>
   📫 How to reach me: Leave a message on LinkedIn and I will get back to you <br>
   🤝 Open to collaboration: projects, dashboards, portfolio builds <br>
