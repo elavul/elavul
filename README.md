@@ -10,6 +10,7 @@ Data Analyst with a creative edge | London, UK
 <img src="https://github.com/user-attachments/assets/1e1353fd-ceb4-4ea5-a0f5-efab490047e3" alt="Image" align="right" width="300" />
 
 <p align="left">
+  
   💡 Curious. Analytical. Creative. Business-minded. Passionate about statistics, data, design world and structure.<br>
   🎯 Obsessed with turning raw data into elegant, meaningful insights that bring business value. <br>
   🌱 Currently Learning: Machine Learning  <br> 
