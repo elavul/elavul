@@ -3,6 +3,7 @@ Hi there ![](https://user-images.githubusercontent.com/18350557/176309783-078594
 
 
 Data Analyst with a creative edge | London, UK
+
 ------------
 
 “Data without context is just noise — but ask the right questions, and it tells a story.”
