@@ -96,36 +96,6 @@ I believe that data fuels creativity.</strong><br>
 * French: Intermediate
 
 
-![snake gif](https://github.com/elavul/elavul/blob/output/github-contribution-grid-snake.svg)
-
-
-extra 
-<!-- Dark Themed Section with Background Image -->
-<div style="background-image: url('https://your-background-image-link.com'); background-size: cover; background-position: center; padding: 40px; border-radius: 12px; color: #ffffff; text-shadow: 2px 2px 6px rgba(0, 0, 0, 0.7);">
-  <h2 style="text-align: center; font-size: 2.5rem; color: #f0f0f0; text-shadow: 0 0 10px #ff007f, 0 0 20px #ff007f;">Hi, I'm Ela 👋</h2>
-  <p style="font-size: 1.2rem; text-align: center; max-width: 800px; margin: 0 auto;">
-    <strong>Creative Data Analyst | London, UK</strong><br>
-    Passionate about turning complex data into insightful, actionable stories that drive business decisions. With a foundation in architecture, design, and business, I thrive on using data to solve complex problems and uncover valuable insights.  
-    <br><br>  
-    <em>Currently Learning:</em> Machine Learning (scikit-learn)<br>
-    <strong>Fun Fact:</strong> I have a secret crush on Python 🐍 — don’t tell Excel 💚
-  </p>
-</div>
-
-<!-- Adding Social Links -->
-<div style="text-align: center; margin-top: 20px;">
-  <a href="https://github.com/elavul" target="_blank">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" style="margin: 10px;" />
-  </a>
-  <a href="https://www.linkedin.com/in/elavul/" target="_blank">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" width="32" height="32" style="margin: 10px;" />
-  </a>
-  <!-- Add more social icons as needed -->
-</div>
-
-
-
-
 
 I also know:
 
