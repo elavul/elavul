@@ -15,10 +15,10 @@ Hi there ![](https://user-images.githubusercontent.com/18350557/176309783-078594
   🎯 Obsessed with turning raw data into elegant, meaningful insights that bring business value. <br>
   🌱 Currently Learning: Machine Learning  <br> 
   🤔 I’m looking for Apprenticships/ Internships/ Entry Level Data Analyst Roles <br>
-  📫 How to reach me: Leave a message on LinkedIn and I will get back to you <br>
-  🤝 Open to collaboration: projects, dashboards, portfolio builds <br>
   🧠 Fun Fact: I have a secret crush on Python 🐍 — don’t tell Excel 💚
+  🤝 Open to collaboration: projects, dashboards, portfolio builds <br>
   
+  📫 Let's connect: https://www.linkedin.com/in/ela-v-145792125/  <br>
   🖥️ See my data viz portfolio at [Tableau](https://public.tableau.com/app/profile/ela.maria.vultur/vizzes) <br>
   🔍 If interested in seeing my palntable cards and traditional greeting cards - click here: https://ebellecards.carrd.co/  <br>
   📚 If interested in seeing my art, click here: https://ebellecreations.com/collections/limited-edition-prints-unique-surrealist-architectural-illustrations   <br>
