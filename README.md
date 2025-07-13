@@ -67,11 +67,11 @@ WORKFLOW, DESIGN & CLOUD|
 -----
 #### Get to know be better 🧭 My Journey into Data
 
-From architecture, design & business to analytics – I fell in love with logic and structure.
-I treat data like design — every detail matters, and precision drives performance.
-Entrepreneurial spirit – My business taught me resilience, how to track KPIs and dig into customer behavior.  
-Data tools I love – Python, SQL, Excel, Tableau  
-Why it matters – I turn complex data into decisions that matter & create beautiful visuals that non-tech people really understand! 
+From architecture, design & business to analytics - I fell in love with logic and structure.
+I treat data like design - every detail matters, and precision drives performance.
+Entrepreneurial spirit - My business taught me resilience, how to track KPIs and dig into customer behavior.  
+Data tools I love - Python, SQL, Excel, Tableau  
+Why it matters - I turn complex data into decisions that matter & create beautiful visuals that non-tech people really understand! 
 I thrive on solving complex problems and translating data into strategic decisions<br>
 I believe that data fuels creativity.</strong><br>
   With structure and logic, I design solutions that tell meaningful stories!
